@@ -1,1 +1,5 @@
-{}
+{
+  "0": "<li><a class = \"page\" href=\"6\"> Plato </a> <span class=\"flex\">6</span> </li>",
+  "1": "<li><a class = \"page\" href=\"7\"> Translated by Benjamin Jowett </a> <span class=\"flex\">7</span> </li>",
+  "2": "<li><a class = \"page\" href=\"55\">   </a> <span class=\"flex\">55</span> </li>"
+}
